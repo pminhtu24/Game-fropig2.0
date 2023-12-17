@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T07:52:56.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" version="22.1.11" etag="NOGlDChZfSxtlZ-2yLcr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T10:46:40.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="cP4ORX_BS1Na92BhN-8t" version="22.1.11" type="github">
   <diagram name="Page-1" id="TtzYD40oTrGqxYCbX8DG">
-    <mxGraphModel>
+    <mxGraphModel dx="1117" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="si_cRtSiRJsk_Obve2NW-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Người chơi&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="si_cRtSiRJsk_Obve2NW-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="100" as="sourcePoint" />
+            <mxPoint x="360" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Hành động đạt thành tựu&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="73" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="170" as="sourcePoint" />
+            <mxPoint x="415" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hệ thống game&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-11" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="198" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="178" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="239.41" as="sourcePoint" />
+            <mxPoint x="650" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Thực thi chức năng đạt thành tựu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="377" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-18" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;3.0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kiểm tra thành tựu&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="208" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cập nhật bảng&lt;br&gt;&amp;nbsp;thành tựu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="198" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2.0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="177" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=-0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="si_cRtSiRJsk_Obve2NW-22" target="si_cRtSiRJsk_Obve2NW-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="360" as="sourcePoint" />
+            <mxPoint x="630" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="si_cRtSiRJsk_Obve2NW-17" target="si_cRtSiRJsk_Obve2NW-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hiển thị thông báo&lt;br&gt;&amp;nbsp;đạt thành tựu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-29" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="473" y="377" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="si_cRtSiRJsk_Obve2NW-28" target="si_cRtSiRJsk_Obve2NW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="427" as="sourcePoint" />
+            <mxPoint x="280" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="si_cRtSiRJsk_Obve2NW-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hiển thị thành tựu&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
