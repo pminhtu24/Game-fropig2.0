@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T17:56:26.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="YkelDCRAzr-rrb_Ic6Hm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T18:03:33.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="o_K-Dlc0NhP3RO4hdtQa" version="22.1.11" type="github">
   <diagram name="Page-1" id="HnEne3nZFIj_RL-T22AS">
     <mxGraphModel dx="1288" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,47 +70,91 @@
         <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-26" value="Gửi yêu cầu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="242" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-27" value="Gửi yêu cầu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-22">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="610" y="290" as="sourcePoint" />
-            <mxPoint x="690" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-29" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="R6ZSA7eraBSv-Gnlj9Ai-22" parent="1">
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-29" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="785" y="290" as="sourcePoint" />
+            <mxPoint x="785" y="400" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="815" y="290" />
-              <mxPoint x="815" y="380" />
+              <mxPoint x="815" y="400" />
+              <mxPoint x="815" y="490" />
             </Array>
-            <mxPoint x="790" y="320" as="targetPoint" />
+            <mxPoint x="785" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-30" value="Lưu dữ liệu và cập nhật trạng thái" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="320" width="200" height="30" as="geometry" />
+          <mxGeometry x="810" y="420" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-31" value="Trả lại kết quả&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-20">
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-31" value="Trả lại kết quả&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="380" as="sourcePoint" />
-            <mxPoint x="690" y="380" as="targetPoint" />
+            <mxPoint x="772.5" y="490" as="sourcePoint" />
+            <mxPoint x="610" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-32" value="Trả lại kết quả&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="R6ZSA7eraBSv-Gnlj9Ai-20" target="R6ZSA7eraBSv-Gnlj9Ai-21">
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-32" value="Trả lại kết quả&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="400" as="sourcePoint" />
-            <mxPoint x="480" y="380" as="targetPoint" />
+            <mxPoint x="595" y="500.0000000000001" as="sourcePoint" />
+            <mxPoint x="465" y="500.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="400" />
+              <mxPoint x="527.5" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-33" value="Phản hồi lại &lt;br&gt;với nhân vật người chơi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="457.5" y="420" as="sourcePoint" />
-            <mxPoint x="310" y="420" as="targetPoint" />
+            <mxPoint x="457.5" y="520" as="sourcePoint" />
+            <mxPoint x="310" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="420" />
+              <mxPoint x="390" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-36" value="Xác nhận yêu cầu" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="R6ZSA7eraBSv-Gnlj9Ai-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="272" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="272" />
+              <mxPoint x="640" y="302" />
+            </Array>
+            <mxPoint x="615" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-38" value="Phản hồi lại yêu cầu" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-39" value="HIển thị thông báo&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-40" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="R6ZSA7eraBSv-Gnlj9Ai-18" target="R6ZSA7eraBSv-Gnlj9Ai-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="140" y="359.58" as="sourcePoint" />
+            <mxPoint x="220" y="359.58" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-41" value="Click đồng ý hoặc từ chối" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="358" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-42" value="Gửi yêu cầu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-21">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-43" value="Gửi yêu cầu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="467" y="399.9999999999999" as="sourcePoint" />
+            <mxPoint x="597" y="399.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6ZSA7eraBSv-Gnlj9Ai-44" value="Gửi yêu cầu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="R6ZSA7eraBSv-Gnlj9Ai-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="608" y="400" as="sourcePoint" />
+            <mxPoint x="756" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
