@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T17:30:07.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" version="22.1.14" etag="kwgkW6F6fkrndtX2Mgxb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T17:36:37.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="BfgS_rjY-QA8bbbW7niN" version="22.1.14" type="github">
   <diagram name="Page-1" id="7tZ9rdjsKO9cO5Opi8N9">
-    <mxGraphModel>
+    <mxGraphModel dx="1431" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lexeOlq44ZYPLj6jismX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Người chơi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="80" as="sourcePoint" />
+            <mxPoint x="440" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tiến trình game&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="35" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-5" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="54" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="34" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-7" value="Trạng thái hoạt động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="57" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-8" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lexeOlq44ZYPLj6jismX-3" target="lexeOlq44ZYPLj6jismX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="160" as="sourcePoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hệ thống lưu game&lt;br&gt;( tự động lưu )&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-10" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-12" value="Lưu các hoạt động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lexeOlq44ZYPLj6jismX-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lexeOlq44ZYPLj6jismX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="170" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
